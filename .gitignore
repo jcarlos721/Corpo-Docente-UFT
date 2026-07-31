@@ -1,0 +1,118 @@
+# ==========================================
+# ARQUIVOS GERADOS PELO PROJETO
+# ==========================================
+
+# Planilha final gerada pelo scraper
+Base_Dados_Docentes_UFT.xlsx
+
+# Logs de execução
+execucao.log
+
+
+# ==========================================
+# PYTHON
+# ==========================================
+
+# Cache e arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Extensões compiladas
+*.so
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Distribuição e empacotamento
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Pacotes instalados
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Arquivos temporários do Excel
+~$*.xlsx
+~$*.xls
+
+
+# ==========================================
+# TESTES E COBERTURA
+# ==========================================
+
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.cache
+.hypothesis/
+nosetests.xml
+
+
+# ==========================================
+# JUPYTER NOTEBOOKS
+# ==========================================
+
+.ipynb_checkpoints/
+
+
+# ==========================================
+# IDEs E EDITORES
+# ==========================================
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.iws
+
+# Arquivos temporários de editores
+*.swp
+*.swo
+*~
+
+
+# ==========================================
+# SISTEMA OPERACIONAL
+# ==========================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
